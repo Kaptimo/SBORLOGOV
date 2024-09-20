@@ -29,7 +29,8 @@
 ![image](https://github.com/user-attachments/assets/a04cfd31-be65-41f7-97b9-736bcefcaf32)
 проверили 
 
-![image](https://github.com/user-attachments/assets/7646d888-6891-4d46-a340-8474d096bdd3)
+![image](https://github.com/user-attachments/assets/a75e4d78-e407-4c39-9633-c69fc224681b)
+
 зашли в графану 
 
 ![image](https://github.com/user-attachments/assets/996f2ee6-6446-4fea-a6d2-6db60e0dd385)
