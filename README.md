@@ -17,13 +17,19 @@
 
 
 ![image](https://github.com/user-attachments/assets/ee829ab7-52e1-4604-9154-ae6bb570cd5e)
+
+
 проверка успешности отправки из 2-ой машины в 1-ую
 
 
 ![image](https://github.com/user-attachments/assets/dd393b9c-0a0b-439f-b383-68905092891e)
+
+
 установили докер с локи и промтэйлом
 
 ![image](https://github.com/user-attachments/assets/0112572c-2937-4f33-ac05-9902afc2ad8d)
+
+
 запустили его 
 
 ![image](https://github.com/user-attachments/assets/a04cfd31-be65-41f7-97b9-736bcefcaf32)
@@ -38,13 +44,21 @@
 
 ![image](https://github.com/user-attachments/assets/91a0df18-0510-4944-aa94-0ee4e9f91e09)
 ![image](https://github.com/user-attachments/assets/84aecaf9-1842-4145-9fb9-5d4cbc42eee4)
+
+
 поменяли конфиг у promtail
 
 ![image](https://github.com/user-attachments/assets/6de5a9e0-e3b8-4496-8a8b-e183172f0c27)
+
+
 сделали конфиг для отправки из rsyslog в promtail
 
 ![image](https://github.com/user-attachments/assets/74f740c4-815b-44dd-a5ef-8be57241f9db)
+
+
 установили data source в виде локи к которому подсоединен promtail 
 
 ![image](https://github.com/user-attachments/assets/99db310e-a67a-4c98-b311-165c6b68bec4)
+
+
 открыли контейнер куда отправляются логи
